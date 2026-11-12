@@ -10,7 +10,7 @@ Despite these efforts, much of the effort still resides with the analyst. For in
 ### How to Use
 The toolbox is designed for use in ArcGIS Pro. The following instructions serve as a guide to help users test the toolbox in ArcGIS Pro:
 
-1. Clone your default ArcGIS Pro environment. Refer to this <a href=https://doc.esri.com/en/arcgis-pro/latest/arcpy/get-started/clone-an-environment.html target=_blank>blog post</a> for guidance on how to perform this task. Choose any name for your new environment that suits your needs.
+1. Clone your default ArcGIS Pro environment. Refer to this <a href=https://doc.esri.com/en/arcgis-pro/latest/arcpy/get-started/clone-an-environment.html target=_blank width=150>blog post</a> for guidance on how to perform this task. Choose any name for your new environment that suits your needs.
 
    
 2. Visit the <a href=https://github.com/edudzikorku/Landcover-Classifier.git target=_blank>GitHub repository</a> of the toolbox and download the entire repository.
