@@ -14,7 +14,7 @@ The toolbox is designed for use in ArcGIS Pro. The following instructions serve 
 
    
 2. Visit the <a href=https://github.com/edudzikorku/Landcover-Classifier.git target=_blank>GitHub repository</a> of the toolbox and download the entire repository.
-<img src=images-for-instructions/download-from-source.png height=200 width=250/>
+<img src=images-for-instructions/download-from-source.png height=350 width=400/>
 
 3. In your download directory, extract the contents of the compressed file.
 
@@ -22,7 +22,7 @@ The toolbox is designed for use in ArcGIS Pro. The following instructions serve 
 <img src=images-for-instructions/new-environment.png/>
 
 5. Navigate to your download directory, locate the requirements.txt file, and copy its contents.
-<img src=images-for-instructions/requirements.png height=200 width=200/>
+<img src=images-for-instructions/requirements.png height=350 width=400/>
 6. Move to the activated environment in the command prompt and install all packages using either pip or conda. For instance, you can run the following command with pip:  
    ``` bash
     pip install "numpy>=1.21.0" "pandas>=1.3.0" "scikit-learn<=1.8.0" "rasterio>=1.2.0" "geopandas>=0.10.0" "xgboost>=1.5.0" "catboost>=1.0.0" "imbalanced-learn>=0.9.0" "matplotlib>=3.5.0" "seaborn>=0.11.0" "scipy>=1.7.0" "tqdm>=4.62.0" "joblib>=1.1.0".
@@ -31,16 +31,16 @@ The toolbox is designed for use in ArcGIS Pro. The following instructions serve 
 7. After all packages have been installed, launch ArcGIS Pro and create a new project.
 
 8. In your Catalog pane, right-click on ‘Toolboxes’ and select ‘Add Toolbox’.
-<img src=images-for-instructions/add-toolbox.png height=100 width=200/>
+<img src=images-for-instructions/add-toolbox.png height=100 width=250/>
 
 9. Navigate to your download directory and select the ‘LandCoverClassifier.pyt’ file.
 <img src=images-for-instructions/select-toolbox.png height=100 width=200/>
 
 10. When prompted, select ‘Yes’ to proceed.
-<img src=images-for-instructions/access-permission.png height=100 width=200/>
+<img src=images-for-instructions/access-permission.png height=150 width=250/>
 
 11. Congratulations! The toolbox is now ready for use.
-<img src=images-for-instructions/script-tools.png height=100 width=200/>
+<img src=images-for-instructions/script-tools.png height=150 width=300/>
 
 ### Script Tools
 
